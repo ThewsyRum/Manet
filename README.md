@@ -67,14 +67,15 @@ To get started with Manet, follow these steps:
 4. **View Transactions**: Track all your transactions in the transaction history.
 
 ## Screenshots
-
-![showcase-1](https://github.com/Thankgod20/Manet/blob/main/screenshots/Screenshot_20240703_094501_MANET.jpg)
-![showcase-2](https://github.com/Thankgod20/Manet/blob/main/screenshots/Screenshot_20240703_094513_MANET.jpg)
-![showcase-3](https://github.com/Thankgod20/Manet/blob/main/screenshots/Screenshot_20240703_094531_MANET.jpg)
-![showcase-4](https://github.com/Thankgod20/Manet/blob/main/screenshots/Screenshot_20240703_094600_MANET.jpg)
-![showcase-5](https://github.com/Thankgod20/Manet/blob/main/screenshots/Screenshot_20240703_094850_MANET.jpg)
-![showcase-6](https://github.com/Thankgod20/Manet/blob/main/screenshots/Screenshot_20240703_094531_MANET.jpg)
-![showcase-7](https://github.com/Thankgod20/Manet/blob/main/screenshots/Screenshot_20240703_094857_MANET.jpg)
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/Thankgod20/Manet/blob/main/screenshots/Screenshot_20240703_094501_MANET.jpg" alt="showcase-1" width="250"/>
+    <img src="https://github.com/Thankgod20/Manet/blob/main/screenshots/Screenshot_20240703_094513_MANET.jpg" alt="showcase-2" width="250"/>
+    <img src="https://github.com/Thankgod20/Manet/blob/main/screenshots/Screenshot_20240703_094531_MANET.jpg" alt="showcase-3" width="250"/>
+    <img src="https://github.com/Thankgod20/Manet/blob/main/screenshots/Screenshot_20240703_094600_MANET.jpg" alt="showcase-4" width="250"/>
+    <img src="https://github.com/Thankgod20/Manet/blob/main/screenshots/Screenshot_20240703_094850_MANET.jpg" alt="showcase-5" width="250"/>
+    <img src="https://github.com/Thankgod20/Manet/blob/main/screenshots/Screenshot_20240703_094531_MANET.jpg" alt="showcase-6" width="250"/>
+    <img src="https://github.com/Thankgod20/Manet/blob/main/screenshots/Screenshot_20240703_094857_MANET.jpg" alt="showcase-7" width="250"/>
+</div>
 
 ## Contributing
 
