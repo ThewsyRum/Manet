@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414243541963",
+    "project_id": "manet-f64f9",
+    "storage_bucket": "manet-f64f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414243541963:android:7223497cae6e9d28e91c4e",
+        "android_client_info": {
+          "package_name": "com.manet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnE-q_lr1BuYBk0ereZUEsgNkW3l8mP1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

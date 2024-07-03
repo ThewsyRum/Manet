@@ -52,4 +52,6 @@ target 'MANET' do
       :mac_catalyst_enabled => false
     )
   end
+  permissions_path = '../node_modules/react-native-permissions/ios'
+  pod 'Permission-Camera', :path => "#{permissions_path}/Camera"  
 end
