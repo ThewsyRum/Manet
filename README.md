@@ -79,7 +79,7 @@ To get started with Manet, follow these steps:
 
 ## Contributing
 
-We welcome contributions to enhance Manet. To contribute:
+We welcome contributions to enhance Manet (especially in the area of injected web3 functionality). To contribute:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/YourFeature`
